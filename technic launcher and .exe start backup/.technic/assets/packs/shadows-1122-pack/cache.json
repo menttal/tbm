@@ -1,0 +1,36 @@
+{
+  "name": "shadows-1122-pack",
+  "displayName": "Shadows 1.12.2 Pack",
+  "url": "https://www.dropbox.com/s/ra9ohhxcyuj56vo/modpack.zip?dl\u003d1",
+  "platformUrl": "https://www.technicpack.net/modpack/shadows-1122-pack.1709088",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.1",
+  "description": "Viva la revolution",
+  "ratings": 0,
+  "runs": 3,
+  "downloads": 4,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "ShadowsVFX",
+      "date": 1592742577,
+      "content": "Updated to version 1.1",
+      "avatar": "https://minotar.net/helm/ShadowsGFX/60",
+      "url": "https://www.technicpack.net/modpack/shadows-1122-pack.1709088/changelog/1607956"
+    }
+  ]
+}

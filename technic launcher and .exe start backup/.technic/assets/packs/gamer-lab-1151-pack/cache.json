@@ -1,0 +1,43 @@
+{
+  "name": "gamer-lab-1151-pack",
+  "displayName": "Gamer Lab 1.12.2 Pack",
+  "url": "https://www.dropbox.com/s/ua5f6ajztmyj3z8/modpack.zip?dl\u003d1",
+  "platformUrl": "https://www.technicpack.net/modpack/gamer-lab-1151-pack.1601851",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.3",
+  "description": "This is the epic pack for Gamer Lab",
+  "ratings": 0,
+  "runs": 24,
+  "downloads": 9,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "605913793264091165",
+  "feed": [
+    {
+      "user": "Snowmoble2004",
+      "date": 1578959764,
+      "content": "Updated to version 1.3",
+      "avatar": "https://www.gravatar.com/avatar/f839417fb293e48c14aadec91c6a56d6?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/gamer-lab-1151-pack.1601851/changelog/1422966"
+    },
+    {
+      "user": "Snowmoble2004",
+      "date": 1578807648,
+      "content": "Updated to version 1.2",
+      "avatar": "https://www.gravatar.com/avatar/f839417fb293e48c14aadec91c6a56d6?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/gamer-lab-1151-pack.1601851/changelog/1420850"
+    }
+  ]
+}

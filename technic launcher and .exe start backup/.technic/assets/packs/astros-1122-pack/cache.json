@@ -1,0 +1,99 @@
+{
+  "name": "astros-1122-pack",
+  "displayName": "Astro\u0027s 1.12.2 Pack",
+  "url": "https://www.dropbox.com/s/j4mf6ubiqg6vyq0/modpack.zip?dl\u003d1",
+  "platformUrl": "https://www.technicpack.net/modpack/astros-1122-pack.1662865",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/1662865.png?1587053409",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/1662865.png?1587053409",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/1662865.jpg?1587053409",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "0.2.3",
+  "description": "its... just a modpack, idk what to put here.",
+  "ratings": 0,
+  "runs": 26,
+  "downloads": 6,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "louis_fd",
+      "date": 1587073369,
+      "content": "Updated to version 0.2.3",
+      "avatar": "https://www.gravatar.com/avatar/2b7bcbb1d707e4dbe6ea8fee7f1b8d16?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/astros-1122-pack.1662865/changelog/1530737"
+    },
+    {
+      "user": "louis_fd",
+      "date": 1587071227,
+      "content": "Updated to version 0.2.2",
+      "avatar": "https://www.gravatar.com/avatar/2b7bcbb1d707e4dbe6ea8fee7f1b8d16?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/astros-1122-pack.1662865/changelog/1530697"
+    },
+    {
+      "user": "louis_fd",
+      "date": 1587053426,
+      "content": "Updated to version 0.2.1",
+      "avatar": "https://www.gravatar.com/avatar/2b7bcbb1d707e4dbe6ea8fee7f1b8d16?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/astros-1122-pack.1662865/changelog/1530450"
+    },
+    {
+      "user": "louis_fd",
+      "date": 1587052981,
+      "content": "Updated to version 0.2",
+      "avatar": "https://www.gravatar.com/avatar/2b7bcbb1d707e4dbe6ea8fee7f1b8d16?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/astros-1122-pack.1662865/changelog/1530427"
+    },
+    {
+      "user": "louis_fd",
+      "date": 1587050245,
+      "content": "Updated to version 0.1.9",
+      "avatar": "https://www.gravatar.com/avatar/2b7bcbb1d707e4dbe6ea8fee7f1b8d16?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/astros-1122-pack.1662865/changelog/1530374"
+    },
+    {
+      "user": "louis_fd",
+      "date": 1586983785,
+      "content": "Updated to version 0.1.8",
+      "avatar": "https://www.gravatar.com/avatar/2b7bcbb1d707e4dbe6ea8fee7f1b8d16?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/astros-1122-pack.1662865/changelog/1529576"
+    },
+    {
+      "user": "louis_fd",
+      "date": 1586983436,
+      "content": "Updated to version 0.1.7",
+      "avatar": "https://www.gravatar.com/avatar/2b7bcbb1d707e4dbe6ea8fee7f1b8d16?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/astros-1122-pack.1662865/changelog/1529562"
+    },
+    {
+      "user": "louis_fd",
+      "date": 1586979122,
+      "content": "Updated to version 0.1.6",
+      "avatar": "https://www.gravatar.com/avatar/2b7bcbb1d707e4dbe6ea8fee7f1b8d16?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/astros-1122-pack.1662865/changelog/1529495"
+    },
+    {
+      "user": "louis_fd",
+      "date": 1586978243,
+      "content": "Updated to version 0.1.5",
+      "avatar": "https://www.gravatar.com/avatar/2b7bcbb1d707e4dbe6ea8fee7f1b8d16?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/astros-1122-pack.1662865/changelog/1529472"
+    },
+    {
+      "user": "louis_fd",
+      "date": 1586919832,
+      "content": "Updated to version 0.1.4",
+      "avatar": "https://www.gravatar.com/avatar/2b7bcbb1d707e4dbe6ea8fee7f1b8d16?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/astros-1122-pack.1662865/changelog/1528760"
+    }
+  ]
+}

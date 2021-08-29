@@ -1,0 +1,13 @@
+{
+  "installedPacks": {
+    "the-1122-pack": {
+      "name": "the-1122-pack",
+      "build": "recommended",
+      "directory": "%MODPACKS%\\the-1122-pack"
+    }
+  },
+  "byIndex": [
+    "the-1122-pack"
+  ],
+  "selected": "the-1122-pack"
+}

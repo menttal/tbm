@@ -1,0 +1,50 @@
+{
+  "name": "attack-of-the-bteam",
+  "displayName": "Attack of the B-Team",
+  "platformUrl": "https://www.technicpack.net/modpack/attack-of-the-bteam.552556",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/552556.png?1445088955",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/552556.png?1445088955",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/552556.jpg?1445088955",
+    "md5": ""
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0.12c",
+  "solder": "https://solder.technicpack.net/api/",
+  "description": "Designed with one thing in mind, crazy mad science! Play with some of the wackiest mods we could find!",
+  "ratings": 0,
+  "runs": 29460653,
+  "downloads": 5141210,
+  "isServer": false,
+  "isOfficial": true,
+  "discordServerId": "42463947818795009",
+  "feed": [
+    {
+      "user": "Pyker",
+      "date": 1549674457,
+      "content": "A mod was added (Lumy Skin Patch), which brings back your super nice Minecraft skins (and if you play with other people, theirs as well!).",
+      "avatar": "https://www.gravatar.com/avatar/777da0eed8908835b1e9e08204f5beb2?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/1462493"
+    },
+    {
+      "user": "CanVox",
+      "date": 1445103185,
+      "content": "Updated to version 1.0.12c",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/attack-of-the-bteam.552556/changelog/193643"
+    },
+    {
+      "user": "CanVox",
+      "date": 1419998265,
+      "content": "We\u0027ve applied LexManos\u0027s Legacy Java Fixer to Attack of the B-Team, so now users with java 1.8 can play!",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/6483"
+    }
+  ]
+}

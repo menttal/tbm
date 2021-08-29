@@ -1,0 +1,20 @@
+{
+  "memory": 7,
+  "launchAction": "HIDE",
+  "buildStream": "stable",
+  "showConsole": false,
+  "languageCode": "default",
+  "clientId": "d63004f9-9831-4865-a14e-df7e6ecd40ea",
+  "javaArgs": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent\u003d20 -XX:G1ReservePercent\u003d20 -XX:MaxGCPauseMillis\u003d50 -XX:G1HeapRegionSize\u003d32M",
+  "latestNewsArticle": 166,
+  "launchToModpacks": false,
+  "javaVersion": "default",
+  "autoAcceptRequirements": false,
+  "javaBitness": true,
+  "launcherSettingsVersion": "1",
+  "windowType": "DEFAULT",
+  "windowWidth": 0,
+  "windowHeight": 0,
+  "enableStencilBuffer": true,
+  "useMojangJava": true
+}

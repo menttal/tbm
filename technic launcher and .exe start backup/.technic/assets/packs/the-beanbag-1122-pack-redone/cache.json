@@ -1,0 +1,50 @@
+{
+  "name": "the-beanbag-1122-pack-redone",
+  "displayName": "the beanbag 1.12.2 pack redone",
+  "url": "https://www.dropbox.com/s/1sb57y0z39cexkr/the%20beanbage%201.12.2%20pack.zip?dl\u003d1",
+  "platformUrl": "https://www.technicpack.net/modpack/the-beanbag-1122-pack-redone.1856252",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.3",
+  "description": "this should work this time",
+  "ratings": 0,
+  "runs": 44,
+  "downloads": 11,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "caasi25",
+      "date": 1623099095,
+      "content": "Updated to version 1.3",
+      "avatar": "https://www.gravatar.com/avatar/5629fd18f767cfcf816dc65f26108638?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-beanbag-1122-pack-redone.1856252/changelog/1909300"
+    },
+    {
+      "user": "caasi25",
+      "date": 1623098104,
+      "content": "Updated to version 1.2",
+      "avatar": "https://www.gravatar.com/avatar/5629fd18f767cfcf816dc65f26108638?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-beanbag-1122-pack-redone.1856252/changelog/1909292"
+    },
+    {
+      "user": "caasi25",
+      "date": 1623007137,
+      "content": "Updated to version 1.1",
+      "avatar": "https://www.gravatar.com/avatar/5629fd18f767cfcf816dc65f26108638?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-beanbag-1122-pack-redone.1856252/changelog/1908458"
+    }
+  ]
+}

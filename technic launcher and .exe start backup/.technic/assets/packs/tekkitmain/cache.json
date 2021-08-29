@@ -1,0 +1,64 @@
+{
+  "name": "tekkitmain",
+  "displayName": "Tekkit",
+  "platformUrl": "https://www.technicpack.net/modpack/tekkitmain.552547",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/552547.png?1591657597",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/552547.png?1591657597",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/552547.jpg?1591657597",
+    "md5": ""
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "https://solder.technicpack.net/api/",
+  "description": "We have Liftoff! Tekkit has launched into a new era, and with it new frontiers to explore! Dimensions, pockets and planets, it’s all there for you and your friends to exploit and conquer.",
+  "ratings": 2,
+  "runs": 21637787,
+  "downloads": 3413855,
+  "isServer": false,
+  "isOfficial": true,
+  "discordServerId": "42463947818795009",
+  "feed": [
+    {
+      "user": "Pyker",
+      "date": 1591657741,
+      "content": "An update to the server files (named Tekkit_Server_v1.2.9g-2.zip) has been pushed, which fixes a crash at start due to bspkrsCore failing an update check",
+      "avatar": "https://www.gravatar.com/avatar/777da0eed8908835b1e9e08204f5beb2?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/4284312"
+    },
+    {
+      "user": "Pyker",
+      "date": 1589144290,
+      "content": "Version 1.2.9i disables version update checks for all the mods, which were causing some people to crash.",
+      "avatar": "https://www.gravatar.com/avatar/777da0eed8908835b1e9e08204f5beb2?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/4245151"
+    },
+    {
+      "user": "Pyker",
+      "date": 1549674500,
+      "content": "A mod was added (Lumy Skin Patch), which brings back your super nice Minecraft skins (and if you play with other people, theirs as well!).",
+      "avatar": "https://www.gravatar.com/avatar/777da0eed8908835b1e9e08204f5beb2?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/1462506"
+    },
+    {
+      "user": "CanVox",
+      "date": 1435145930,
+      "content": "We\u0027ve disabled OCS analytics-collection for people who cannot reach the OCS website for whatever reason.  We\u0027ve also promoted a new server build, try it out!",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/231543"
+    },
+    {
+      "user": "CanVox",
+      "date": 1419999209,
+      "content": "LexManos\u0027s LegacyJavaFixer has been added to both the latest and recommended versions, so users of java 1.8 can play both!",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/6494"
+    }
+  ]
+}

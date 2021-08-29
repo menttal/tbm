@@ -1,0 +1,36 @@
+{
+  "name": "hexxit",
+  "displayName": "Hexxit",
+  "platformUrl": "https://www.technicpack.net/modpack/hexxit.552552",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/552552.png?1443082685",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/552552.png?1443082685",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/552552.jpg?1443082685",
+    "md5": ""
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "https://solder.technicpack.net/api/",
+  "description": "Gear up and set forth on a campaign worthy of legend, for Hexxit has been unearthed!",
+  "ratings": 0,
+  "runs": 48806998,
+  "downloads": 7269315,
+  "isServer": false,
+  "isOfficial": true,
+  "discordServerId": "42463947818795009",
+  "feed": [
+    {
+      "user": "Pyker",
+      "date": 1549674498,
+      "content": "A mod was added (Lumy Skin Patch), which brings back your super nice Minecraft skins (and if you play with other people, theirs as well!).",
+      "avatar": "https://www.gravatar.com/avatar/777da0eed8908835b1e9e08204f5beb2?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/1462503"
+    }
+  ]
+}

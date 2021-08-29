@@ -1,0 +1,57 @@
+{
+  "name": "the-1122-pack-extended",
+  "displayName": "The 1.12.2 Pack EXTENDED",
+  "platformUrl": "https://www.technicpack.net/modpack/the-1122-pack-extended.1607731",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/1607731.png?1579542593",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.4",
+  "solder": "http://64.227.30.223/api/",
+  "description": "A nice edit of 1.12.2 pack",
+  "ratings": 1,
+  "runs": 82,
+  "downloads": 34,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "Minecrafter661_",
+      "date": 1582370330,
+      "content": "Updated to version 1.4",
+      "avatar": "https://minotar.net/helm/ChaoscrafterHD/60",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack-extended.1607731/changelog/1465650"
+    },
+    {
+      "user": "Minecrafter661_",
+      "date": 1579712145,
+      "content": "Updated to version 1.3",
+      "avatar": "https://minotar.net/helm/ChaoscrafterHD/60",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack-extended.1607731/changelog/1433507"
+    },
+    {
+      "user": "Minecrafter661_",
+      "date": 1579546007,
+      "content": "Updated to version 1.2",
+      "avatar": "https://minotar.net/helm/ChaoscrafterHD/60",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack-extended.1607731/changelog/1431403"
+    },
+    {
+      "user": "Minecrafter661_",
+      "date": 1579445697,
+      "content": "Updated to version 1.1",
+      "avatar": "https://minotar.net/helm/ChaoscrafterHD/60",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack-extended.1607731/changelog/1429725"
+    }
+  ]
+}

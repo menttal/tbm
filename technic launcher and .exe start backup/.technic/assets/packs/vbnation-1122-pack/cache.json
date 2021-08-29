@@ -1,0 +1,85 @@
+{
+  "name": "vbnation-1122-pack",
+  "displayName": "VBNation 1.12.2 Pack",
+  "url": "https://www.dropbox.com/s/fk98hno6uzcbxyd/VBNation%201-12-2.zip?dl\u003d1",
+  "platformUrl": "https://www.technicpack.net/modpack/vbnation-1122-pack.1350499",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/1350499.png?1547159011",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/1350499.png?1547159011",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/1350499.jpg?1547159011",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.5",
+  "description": "The official VBN:GMG Minecraft mod pack",
+  "ratings": 0,
+  "runs": 47,
+  "downloads": 8,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "SheldonRice",
+      "date": 1586226192,
+      "content": "Updated to version 1.5",
+      "avatar": "https://www.gravatar.com/avatar/d8ca6c87d6e66bc9a53f299a10998e7b?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/vbnation-1122-pack.1350499/changelog/1517562"
+    },
+    {
+      "user": "SheldonRice",
+      "date": 1586152636,
+      "content": "Updated to version 1.4",
+      "avatar": "https://www.gravatar.com/avatar/d8ca6c87d6e66bc9a53f299a10998e7b?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/vbnation-1122-pack.1350499/changelog/1516370"
+    },
+    {
+      "user": "SheldonRice",
+      "date": 1548034513,
+      "content": "Updated to version 1.3",
+      "avatar": "https://www.gravatar.com/avatar/d8ca6c87d6e66bc9a53f299a10998e7b?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/vbnation-1122-pack.1350499/changelog/1012364"
+    },
+    {
+      "user": "SheldonRice",
+      "date": 1545520176,
+      "content": "Updated to version 1.2",
+      "avatar": "https://www.gravatar.com/avatar/d8ca6c87d6e66bc9a53f299a10998e7b?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/vbnation-1122-pack.1350499/changelog/982770"
+    },
+    {
+      "user": "SheldonRice",
+      "date": 1545519850,
+      "content": "Updated to version 1.1",
+      "avatar": "https://www.gravatar.com/avatar/d8ca6c87d6e66bc9a53f299a10998e7b?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/vbnation-1122-pack.1350499/changelog/982755"
+    },
+    {
+      "user": "SheldonRice",
+      "date": 1545519783,
+      "content": "Updated to 1.0.2",
+      "avatar": "https://www.gravatar.com/avatar/d8ca6c87d6e66bc9a53f299a10998e7b?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/1408652"
+    },
+    {
+      "user": "SheldonRice",
+      "date": 1545519691,
+      "content": "Updated to version 1.0.2",
+      "avatar": "https://www.gravatar.com/avatar/d8ca6c87d6e66bc9a53f299a10998e7b?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/vbnation-1122-pack.1350499/changelog/982754"
+    },
+    {
+      "user": "SheldonRice",
+      "date": 1545518011,
+      "content": "Updated to version 1.0",
+      "avatar": "https://www.gravatar.com/avatar/d8ca6c87d6e66bc9a53f299a10998e7b?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/vbnation-1122-pack.1350499/changelog/982727"
+    }
+  ]
+}

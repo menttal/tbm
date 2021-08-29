@@ -1,0 +1,12 @@
+{
+  "clientToken": "c6858834-a2b8-4a88-ad68-99a2c5d6e659",
+  "savedUsers": {
+    "MENTTTAL": {
+      "id": "be3a46adf8d0428f957ae6aceb4cecdc",
+      "username": "MENTTTAL",
+      "accessToken": "eyJhbGciOiJIUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQ1NjQzNzUzNTI0NiIsInN1YiI6IjE1OGI1OGU1LTIyMmEtNGE5Zi04MjA4LWQ4MGFlMDNkZjc4NiIsIm5iZiI6MTYzMDE4ODY2OSwiYXV0aCI6IlhCT1giLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZXhwIjoxNjMwMjc1MDY5LCJpYXQiOjE2MzAxODg2NjksInBsYXRmb3JtIjoiVU5LTk9XTiIsInl1aWQiOiJiYzA5OTAxZGE3OGNjMTE1NzU3OGY1NDI0NmJhMDRhYyJ9.tJnwAtEMQHlfHnVhF39CIE1is-iDXQn9rTnOsV8v568",
+      "userType": "msa"
+    }
+  },
+  "lastUser": "MENTTTAL"
+}

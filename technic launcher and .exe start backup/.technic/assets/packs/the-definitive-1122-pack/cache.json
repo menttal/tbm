@@ -1,0 +1,36 @@
+{
+  "name": "the-definitive-1122-pack",
+  "displayName": "The Definitive 1.12.2 Pack",
+  "url": "https://www.dropbox.com/s/vo8cg6nr7a9iylj/The%20Definitive%201.12.2%20Pack.zip?dl\u003d1",
+  "platformUrl": "https://www.technicpack.net/modpack/the-definitive-1122-pack.1694670",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.1",
+  "description": "The 1.12.2 Pack but tweaked to our liking.",
+  "ratings": 0,
+  "runs": 11,
+  "downloads": 3,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "t_koessler",
+      "date": 1590606285,
+      "content": "Updated to version 1.1",
+      "avatar": "https://www.gravatar.com/avatar/fa900aa8ccafbbfa74802420327ad9bd?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-definitive-1122-pack.1694670/changelog/1584054"
+    }
+  ]
+}

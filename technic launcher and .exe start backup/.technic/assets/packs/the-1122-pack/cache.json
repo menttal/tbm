@@ -1,0 +1,99 @@
+{
+  "name": "the-1122-pack",
+  "displayName": "The 1.12.2 Pack",
+  "platformUrl": "https://www.technicpack.net/modpack/the-1122-pack.1406454",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/1406454.png?1629602909",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/1406454.png?1629602909",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/1406454.jpg?1629602909",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.3.7",
+  "solder": "https://solder.endermedia.com/api/",
+  "description": "With over 200 unique mods, in-game guides, optimized \u0026 configured gameplay, and more surprises, The 1.12.2 Pack provides the best playing experience - there\u0027s no doubt.",
+  "ratings": 611,
+  "runs": 2603402,
+  "downloads": 496836,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "96554564429299712",
+  "feed": [
+    {
+      "user": "xJon",
+      "date": 1624294701,
+      "content": "Updated to version 1.3.7",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack.1406454/changelog/1919094"
+    },
+    {
+      "user": "xJon",
+      "date": 1622383906,
+      "content": "Updated to version 1.3.6",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack.1406454/changelog/1902423"
+    },
+    {
+      "user": "xJon",
+      "date": 1621811126,
+      "content": "Updated to version 1.3.5",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack.1406454/changelog/1897040"
+    },
+    {
+      "user": "xJon",
+      "date": 1617903658,
+      "content": "Updated to version 1.3.4",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack.1406454/changelog/1862597"
+    },
+    {
+      "user": "xJon",
+      "date": 1616460394,
+      "content": "Updated to version 1.3.3",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack.1406454/changelog/1850550"
+    },
+    {
+      "user": "xJon",
+      "date": 1610062850,
+      "content": "Updated to version 1.3.2",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack.1406454/changelog/1781746"
+    },
+    {
+      "user": "xJon",
+      "date": 1609611970,
+      "content": "Updated to version 1.3.1",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack.1406454/changelog/1776207"
+    },
+    {
+      "user": "xJon",
+      "date": 1607983193,
+      "content": "Updated to version 1.3.0",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack.1406454/changelog/1758313"
+    },
+    {
+      "user": "xJon",
+      "date": 1601919631,
+      "content": "Updated to version 1.2.3",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack.1406454/changelog/1696875"
+    },
+    {
+      "user": "xJon",
+      "date": 1597591836,
+      "content": "Updated to version 1.2.2",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/the-1122-pack.1406454/changelog/1659330"
+    }
+  ]
+}

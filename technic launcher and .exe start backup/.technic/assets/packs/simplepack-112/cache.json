@@ -1,0 +1,43 @@
+{
+  "name": "simplepack-112",
+  "displayName": "ASimplePack 1.12",
+  "url": "https://www.dropbox.com/s/qga95d4nbxgn4x5/thesimplepack1122.zip?dl\u003d1",
+  "platformUrl": "https://www.technicpack.net/modpack/simplepack-112.1871628",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/1871628.png?1628164774",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/1871628.png?1628164774",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/1871628.jpg?1628164774",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "V1.2",
+  "description": "Return of the SimplePack 1.12 (over 350mods, up from 5gb ram dedicated) - Modpack based on youtube series and other modpacks. With aditions, modifications, custom menu, hud... Discord - Dysano#6613",
+  "ratings": 1,
+  "runs": 73,
+  "downloads": 44,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "Dysano",
+      "date": 1628526572,
+      "content": "Updated to version V1.2",
+      "avatar": "https://www.gravatar.com/avatar/56ed8e603cf3ef86f4e0e4cc6fce1550?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/simplepack-112.1871628/changelog/1951244"
+    },
+    {
+      "user": "Dysano",
+      "date": 1628114425,
+      "content": "Updated to version V1.1",
+      "avatar": "https://www.gravatar.com/avatar/56ed8e603cf3ef86f4e0e4cc6fce1550?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/simplepack-112.1871628/changelog/1947997"
+    }
+  ]
+}

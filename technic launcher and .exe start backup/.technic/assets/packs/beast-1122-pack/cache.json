@@ -1,0 +1,28 @@
+{
+  "name": "beast-1122-pack",
+  "displayName": "Beast 1.12.2 Pack",
+  "url": "https://dl.dropbox.com/s/8h0oktal7obpqy5/Beast_1_12_2_Pack.zip?dl\u003d1",
+  "platformUrl": "https://www.technicpack.net/modpack/beast-1122-pack.1532674",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.0",
+  "description": "For My Server",
+  "ratings": 0,
+  "runs": 6,
+  "downloads": 5,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "https://discord.gg/Ws9MwAH",
+  "feed": []
+}

@@ -1,0 +1,28 @@
+{
+  "name": "avizezs-1122-pack",
+  "displayName": "Avizez\u0027s 1.12.2 Pack",
+  "url": "https://www.dropbox.com/s/e025uyt8944xku9/yeet.zip?dl\u003d1",
+  "platformUrl": "https://www.technicpack.net/modpack/avizezs-1122-pack.1633423",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.0",
+  "description": "just for fun btw",
+  "ratings": 0,
+  "runs": 1,
+  "downloads": 2,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

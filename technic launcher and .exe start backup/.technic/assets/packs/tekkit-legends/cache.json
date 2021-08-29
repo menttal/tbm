@@ -1,0 +1,99 @@
+{
+  "name": "tekkit-legends",
+  "displayName": "Tekkit Legends",
+  "platformUrl": "https://www.technicpack.net/modpack/tekkit-legends.735902",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/735902.png?1547028753",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/735902.png?1547028753",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/735902.jpg?1547028753",
+    "md5": ""
+  },
+  "minecraft": "1.4.7",
+  "version": "1.1.1",
+  "solder": "https://solder.technicpack.net/api/",
+  "description": "Tekkit returns in this legendary pack!",
+  "ratings": 0,
+  "runs": 21193228,
+  "downloads": 4537185,
+  "isServer": false,
+  "isOfficial": true,
+  "discordServerId": "42463947818795009",
+  "feed": [
+    {
+      "user": "CanVox",
+      "date": 1450491810,
+      "content": "Updated to version 1.1.1",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/tekkit-legends.735902/changelog/222279"
+    },
+    {
+      "user": "CanVox",
+      "date": 1449091164,
+      "content": "Updated to version 1.1.0",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/tekkit-legends.735902/changelog/214937"
+    },
+    {
+      "user": "CanVox",
+      "date": 1445099887,
+      "content": "Updated to version 1.0.10",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/tekkit-legends.735902/changelog/193622"
+    },
+    {
+      "user": "CanVox",
+      "date": 1444645145,
+      "content": "Updated to version 1.0.9",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/tekkit-legends.735902/changelog/191332"
+    },
+    {
+      "user": "CanVox",
+      "date": 1444563982,
+      "content": "Updated to version 1.0.8",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/tekkit-legends.735902/changelog/190687"
+    },
+    {
+      "user": "CanVox",
+      "date": 1443911356,
+      "content": "Updated to version 1.0.7",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/tekkit-legends.735902/changelog/186933"
+    },
+    {
+      "user": "CanVox",
+      "date": 1443243745,
+      "content": "Updated to version 1.0.6",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/tekkit-legends.735902/changelog/182775"
+    },
+    {
+      "user": "CanVox",
+      "date": 1443219883,
+      "content": "Updated to version 1.0.5-clientonly",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/tekkit-legends.735902/changelog/182606"
+    },
+    {
+      "user": "CanVox",
+      "date": 1443193460,
+      "content": "Updated to version 1.0.4",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/tekkit-legends.735902/changelog/182425"
+    },
+    {
+      "user": "CanVox",
+      "date": 1443102883,
+      "content": "1.0.3 is released!  We hope you enjoy the pack!",
+      "avatar": "https://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/322617"
+    }
+  ]
+}

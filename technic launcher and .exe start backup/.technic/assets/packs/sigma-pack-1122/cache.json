@@ -1,0 +1,28 @@
+{
+  "name": "sigma-pack-1122",
+  "displayName": "Sigma Pack 1.12.2",
+  "url": "https://www.dropbox.com/s/0sl7k9nj089rgd3/sigma-pack-1.12.2_2.zip?dl\u003d1",
+  "platformUrl": "https://www.technicpack.net/modpack/sigma-pack-1122.1200668",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/1200668.png?1570272211",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/1200668.png?1570272211",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/1200668.jpg?1570272211",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.0",
+  "description": "Sigma. The sign for a Sum. This Modpack is aiming to bring you the ultimate Minecraft experience by bringing you a Sum of the best available Mods for it.",
+  "ratings": 2,
+  "runs": 1113,
+  "downloads": 775,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}

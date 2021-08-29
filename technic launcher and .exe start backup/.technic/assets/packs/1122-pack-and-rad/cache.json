@@ -1,0 +1,28 @@
+{
+  "name": "1122-pack-and-rad",
+  "displayName": "1.12.2 pack and RAD",
+  "url": "https://dl.dropboxusercontent.com/s/7aip00lh2zy07sw/the-1122-pack-and-RAD.zip?dl\u003d0",
+  "platformUrl": "https://www.technicpack.net/modpack/1122-pack-and-rad.1678867",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.0",
+  "description": "a fusion between 1.12.2 and RAD",
+  "ratings": 0,
+  "runs": 1,
+  "downloads": 1,
+  "isServer": false,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": []
+}
