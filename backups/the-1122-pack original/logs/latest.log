@@ -1,0 +1,912 @@
+[00:05:09] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[00:05:09] [Server thread/INFO]: Generating keypair
+[00:05:10] [Server thread/INFO]: Permission Handler is: (default)
+[00:05:10] [Server thread/INFO]: Loading Data For: StringTypeNode{value=Modded World}
+[00:05:10] [Server thread/INFO]: Injecting existing registry data into this server instance
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:05:44] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:05:45] [Server thread/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:05:54] [Server thread/INFO]: JEI search tree manager injection complete!
+[00:06:11] [Server thread/INFO]: Applying holder lookups
+[00:06:11] [Server thread/INFO]: Holder lookups applied
+[00:06:11] [Server thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":false,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[00:06:11] [Server thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[00:06:11] [Server thread/INFO]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":false,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[00:06:11] [Server thread/INFO]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":false,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[00:06:11] [Server thread/INFO]: Loading dimension 0 (New Modded World) (net.minecraft.server.integrated.IntegratedServer@3f898cf0)
+[00:06:11] [Server thread/INFO]: Appending Loot Pools to minecraft:chests/simple_dungeon
+[00:06:11] [Server thread/INFO]: Appending Loot Pools to minecraft:chests/abandoned_mineshaft
+[00:06:12] [Server thread/INFO]: Appending Loot Pools to minecraft:chests/stronghold_corridor
+[00:06:12] [Server thread/INFO]: Appending Loot Pools to minecraft:chests/village_blacksmith
+[00:06:12] [Server thread/INFO]: Appending Loot Pools to minecraft:chests/stronghold_crossing
+[00:06:12] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/building_blocks/coal_block
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:coal_block'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.loadAllWorlds(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.init(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[00:06:12] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/building_blocks/bookshelf
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:bookshelf'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.deserializeClass(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.fromJson(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.loadBuiltInAdvancements(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.loadAllWorlds(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.init(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[00:06:49] [Server thread/ERROR]: Parsing error loading built-in advancement galacticraftcore:galacticraft/oil
+com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown string 'galacticraftcore:bucket_oil'
+	at net.minecraft.util.JsonUtils.getItem(SourceFile:124) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.getItem(SourceFile:135) ~[rc.class:?]
+	at net.minecraft.advancements.DisplayInfo.deserializeIcon(DisplayInfo.java:133) ~[r.class:?]
+	at net.minecraft.advancements.DisplayInfo.deserialize(DisplayInfo.java:111) ~[r.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:202) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:517) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:537) ~[rc.class:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$loadAdvancements$0(ForgeHooks.java:1381) [ForgeHooks.class:14.23.5.2855]
+	at net.minecraftforge.common.ForgeHooks$$Lambda$5951/1802891421.apply(Unknown Source) [ForgeHooks.class:14.23.5.2855]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1359) [ForgeHooks.class:14.23.5.2855]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1326) [ForgeHooks.class:14.23.5.2855]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:69) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.loadAllWorlds(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.init(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[00:06:49] [Server thread/ERROR]: Parsing error loading built-in advancement simplyjetpacks:ie/root_ie
+com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown string 'immersiveengineering:metal_decoration0'
+	at net.minecraft.util.JsonUtils.getItem(SourceFile:124) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.getItem(SourceFile:135) ~[rc.class:?]
+	at net.minecraft.advancements.DisplayInfo.deserializeIcon(DisplayInfo.java:133) ~[r.class:?]
+	at net.minecraft.advancements.DisplayInfo.deserialize(DisplayInfo.java:111) ~[r.class:?]
+	at net.minecraft.advancements.Advancement$Builder.deserialize(SourceFile:202) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:517) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.gsonDeserialize(SourceFile:537) ~[rc.class:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$loadAdvancements$0(ForgeHooks.java:1381) [ForgeHooks.class:14.23.5.2855]
+	at net.minecraftforge.common.ForgeHooks$$Lambda$5951/1802891421.apply(Unknown Source) [ForgeHooks.class:14.23.5.2855]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1359) [ForgeHooks.class:14.23.5.2855]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1326) [ForgeHooks.class:14.23.5.2855]
+	at net.minecraft.advancements.AdvancementManager.reload(AdvancementManager.java:69) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.init(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.loadAllWorlds(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.init(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[00:06:50] [Server thread/ERROR]: Couldn't load advancement galacticraftcore:galacticraft/rocket_fuel: Task Advancement{parentId=galacticraftcore:galacticraft/refinery, display=net.minecraft.advancements.DisplayInfo@2052483b, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={fuel_bucket=net.minecraft.advancements.Criterion@5653f01a}, requirements=[[fuel_bucket]]}
+[00:06:50] [Server thread/ERROR]: Couldn't load advancement galacticraftcore:galacticraft/refinery: Task Advancement{parentId=galacticraftcore:galacticraft/oil, display=net.minecraft.advancements.DisplayInfo@57c6cdd3, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=null}, criteria={refinery=net.minecraft.advancements.Criterion@1e5c2411}, requirements=[[refinery]]}
+[00:06:50] [Server thread/ERROR]: Couldn't load advancement simplyjetpacks:ie/jetpack_ie3: Task Advancement{parentId=simplyjetpacks:ie/jetpack_ie2, display=net.minecraft.advancements.DisplayInfo@35795df8, rewards=AdvancementRewards{experience=1, loot=[], recipes=[], function=null}, criteria={jetpack_ie3=net.minecraft.advancements.Criterion@4a7a9bea}, requirements=[[jetpack_ie3]]}
+[00:06:50] [Server thread/ERROR]: Couldn't load advancement simplyjetpacks:ie/jetpack_ie2: Task Advancement{parentId=simplyjetpacks:ie/jetpack_ie1, display=net.minecraft.advancements.DisplayInfo@1a049109, rewards=AdvancementRewards{experience=1, loot=[], recipes=[], function=null}, criteria={jetpack_eio2=net.minecraft.advancements.Criterion@4bffc68}, requirements=[[jetpack_eio2]]}
+[00:06:50] [Server thread/ERROR]: Couldn't load advancement simplyjetpacks:ie/jetpack_ie1: Task Advancement{parentId=simplyjetpacks:ie/root_ie, display=net.minecraft.advancements.DisplayInfo@5b0215cf, rewards=AdvancementRewards{experience=1, loot=[], recipes=[], function=null}, criteria={jetpack_ie1=net.minecraft.advancements.Criterion@20a5fe7b}, requirements=[[jetpack_ie1]]}
+[00:06:50] [Server thread/INFO]: Loaded 1272 advancements
+[00:06:50] [Server thread/INFO]: Creating aura cache for world 0
+[00:06:50] [Server thread/INFO]: Loading dimension 1 (New Modded World) (net.minecraft.server.integrated.IntegratedServer@3f898cf0)
+[00:06:50] [Server thread/INFO]: Creating aura cache for world 1
+[00:06:50] [Server thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[00:06:50] [Server thread/INFO]: Loading dimension -1 (New Modded World) (net.minecraft.server.integrated.IntegratedServer@3f898cf0)
+[00:06:50] [Server thread/INFO]: Creating aura cache for world -1
+[00:06:50] [Server thread/INFO]: Loading dimension -6 (New Modded World) (net.minecraft.server.integrated.IntegratedServer@3f898cf0)
+[00:06:50] [Server thread/INFO]: Creating aura cache for world -6
+[00:06:50] [Server thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[00:06:50] [Server thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[00:06:50] [Server thread/INFO]: Loading dimension -11325 (New Modded World) (net.minecraft.server.integrated.IntegratedServer@3f898cf0)
+[00:06:50] [Server thread/INFO]: Creating aura cache for world -11325
+[00:06:50] [Server thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[00:06:50] [Server thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[00:06:50] [Server thread/INFO]: Loading dimension -9999 (New Modded World) (net.minecraft.server.integrated.IntegratedServer@3f898cf0)
+[00:06:50] [Server thread/INFO]: Creating aura cache for world -9999
+[00:06:50] [Server thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[00:06:50] [Server thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[00:06:50] [Server thread/INFO]: Loading dimension 2 (New Modded World) (net.minecraft.server.integrated.IntegratedServer@3f898cf0)
+[00:06:50] [Server thread/INFO]: Creating aura cache for world 2
+[00:06:50] [Server thread/INFO]: Loading dimension 7 (New Modded World) (net.minecraft.server.integrated.IntegratedServer@3f898cf0)
+[00:06:50] [Server thread/INFO]: Creating aura cache for world 7
+[00:06:51] [Server thread/INFO]: Verify Tweaks
+[00:06:51] [Server thread/INFO]: Registered Dimension: -30
+[00:06:51] [Server thread/INFO]: Registered Dimension: -20
+[00:06:51] [Server thread/INFO]: Registered Dimension: -21
+[00:06:51] [Server thread/INFO]: Registered Dimension: -15
+[00:06:51] [Server thread/INFO]: Registered Dimension: -22
+[00:06:51] [Server thread/INFO]: Registered Dimension: -29
+[00:06:51] [Server thread/INFO]: Registered Dimension: -13
+[00:06:51] [Server thread/INFO]: Registered Dimension: -18
+[00:06:51] [Server thread/INFO]: Registered Dimension: -19
+[00:06:51] [Server thread/INFO]: Registered Dimension: -16
+[00:06:51] [Server thread/INFO]: Registered Dimension: -17
+[00:06:51] [Server thread/INFO]: Registered Dimension: -31
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1505
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1503
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1501
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1506
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1511
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1500
+[00:06:51] [Server thread/INFO]: Registered Dimension: -28
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1509
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1502
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1507
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1508
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1510
+[00:06:51] [Server thread/INFO]: Registered Dimension: -1504
+[00:06:51] [Server thread/INFO]: Starting threads
+[00:06:51] [Thread-47966/INFO]: Starting aura thread for dim 0
+[00:06:51] [Thread-47967/INFO]: Starting aura thread for dim 1
+[00:06:51] [Thread-47968/INFO]: Starting aura thread for dim -1
+[00:06:51] [Thread-47969/INFO]: Starting aura thread for dim -6
+[00:06:51] [Thread-47970/INFO]: Starting aura thread for dim -11325
+[00:06:51] [Thread-47971/INFO]: Starting aura thread for dim -9999
+[00:06:51] [Thread-47972/INFO]: Starting aura thread for dim 2
+[00:06:51] [Thread-47973/INFO]: Starting aura thread for dim 7
+[00:06:51] [Server thread/INFO]: Removing aura cache for world 1
+[00:06:51] [Server thread/INFO]: Unloading dimension 1
+[00:06:51] [Server thread/INFO]: Removing aura cache for world -1
+[00:06:51] [Server thread/INFO]: Unloading dimension -1
+[00:06:51] [Server thread/INFO]: Removing aura cache for world -6
+[00:06:51] [Server thread/INFO]: Unloading dimension -6
+[00:06:51] [Server thread/INFO]: Removing aura cache for world -11325
+[00:06:51] [Server thread/INFO]: Unloading dimension -11325
+[00:06:51] [Server thread/INFO]: Removing aura cache for world 7
+[00:06:51] [Server thread/INFO]: Unloading dimension 7
+[00:06:51] [Server thread/INFO]: Changing view distance to 8, from 10
+[00:06:52] [Netty Local Client IO #3/INFO]: Server protocol version 2
+[00:06:52] [Netty Server IO #7/INFO]: Client protocol version 2
+[00:06:52] [Netty Server IO #7/INFO]: Client attempting to join with 304 mods : gbook@2.9.5,buildcraftenergy@7.99.24.8,deathcounter@1.1.0,chunkgenlimit@1.1,thermalinnovation@0.3.6,endercore@1.12.2-0.5.76,thaumicjei@1.6.0,jeibees@0.9.0.5,ctm@MC1.12.2-1.0.2.31,reauth@3.6.0,advsolarpatch@1.1,forgelin@1.8.4,microblockcbe@2.6.2.83,xreliquary@1.12.2-1.3.4.796,randompatches@1.12.2-1.22.1.10,icbmclassic@1.12.2-4.0.0.20191109044626,morpheus@1.12.2-3.5.106,mystcraft_info@1.0.3.0,waila@1.8.26,enderioconduitsrefinedstorage@5.3.70,galacticraftplanets@4.0.2.280,redstonearsenal@2.6.6,guideapi@1.12-2.1.8-63,jeresources@0.9.2.60,mcmultipart@2.5.3,mainmenuscale@1.0,superfactorymanager@@VERSION@,mysticallib@1.12.2-1.10.0,enderioconduits@5.3.70,advmachinespatch@1.0,growthcraft_hops@4.2.2,packcrashinfo@%VERSION%,betterpingdisplay@1.0,industrialforegoing@1.12.2-1.12.2,advanced_machines@61.0.1,tipthescales@1.0.4,torchmaster@1.8.4.84,unidict@1.12.2-3.0.8,powersuits@1.12.2-1.0.46,biomesoplenty@7.0.1.2444,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.8,moresoundconfig@1.0.4,concheckrmd@1.9.5,reccomplex@1.4.8.2,botania@r1.10-364,gendustry@1.6.5.8,dynamiclights_mobequipment@1.1.0,fairylights@2.1.10,resourceloader@1.5.3,projectred-core@4.9.4.120,ic2@2.8.221-ex112,buildcraftbuilders@7.99.24.8,jepb@1.2.1,lunatriuscore@1.2.0.42,buildcraftfactory@7.99.24.8,jexclusives@1.1.0,teslacorelib@1.0.17,projectred-fabrication@4.9.4.120,enderioinvpanel@5.3.70,projectred-exploration@4.9.4.120,projectred-transportation@4.9.4.120,FML@8.0.99.99,thermalexpansion@5.5.7,projectred-integration@4.9.4.120,enderiointegrationtic@5.3.70,buildcraftcompat@7.99.24.8,cfm@6.3.1,oredictinit@1.12.2-2.2.1.72,forgemultipartcbe@2.6.2.83,dynamiclights_creepers@1.0.6,customstartinggear@1.2.0,codechickenlib@3.2.3.358,fastleafdecay@v14,whoosh@0.1.10,tinkersaddons@1.0.7,wailaharvestability@1.1.12,aroma1997sdimension@2.0.0.2.b89,binniedesign@2.5.1.203,cctweaked@1.89.2,unloader@1.2.0,clienttweaks@3.1.11,savemystronghold@1.12.2-1.0.0,ctgui@1.0.0,doge@0.6.0,simplyjetpacks@1.12.2-2.2.20.0,OpenEye@0.8,jee@1.0.8,supersoundmuffler@1.0.2.10,smoothfont@mc1.12.2-2.1.2,jei@4.16.1.302,attributefix@1.0.4,custommainmenu@2.0.9.1,thermalcultivation@0.3.6,bibliocraft@2.4.5,mekanism@1.12.2-9.8.3.390,thermalfoundation@2.6.7,justenoughreactors@1.1.3.61,lemonlib@1.3.0,bdlib@1.14.3.12,opencomputers@1.7.5.192,enderiozoo@5.3.70,smoothfontcore@mc1.12.2-2.1.2,naturescompass@1.8.5,compactsolars@1.12.2-5.0.18.341,gravisuite@3.1.1,plethora-core@1.2.3,enderiointegrationticlate@5.3.70,aroma1997core@2.0.0.2.b167,conarm@1.2.5.10,inventorytweaks@1.63+release.109.220f184,pneumaticcraft@1.12.2-0.11.15-398,mystcraft@0.13.7.06,extrabees@2.5.1.203,micdoodlecore@,crafttweaker@4.1.20,forge@14.23.5.2855,growthcraft_fishtrap@4.2.2,testdummy@1.12,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,zerocore@1.12.2-0.1.2.9,minecraft@1.12.2,dupefixproject@3.1.2,funkylocomotion@1.0,mousetweaks@2.10,thermaldynamics@2.5.6,entity_culling@4.1.5,bspkrscore@7.6.0.1,growthcraft_milk@4.2.2,numina@1.12.2-1.0.38,planetprogression@1.12.2-0.4.5,thaumicenergistics@2.2.3,ding@1.0.2,dynamiclights_dropitems@1.1.0,enderiopowertools@5.3.70,chickenchunks@2.4.2.74,dynamiclights_flamearrows@1.0.1,compacter@1.3.0.3,extrautils2@1.0,jeiintegration@1.6.0,debark@0.1.2,mantle@1.12-1.3.3.55,loottweaker@0.3.0,autoreglib@1.3-32,growthcraft_bees@4.2.2,galacticraftcore@4.0.2.280,gendustryjei@1.0.2,mrtjpcore@2.1.4.43,railcraft@12.0.0,moresoundconfigcore@1.0.0,appleskin@1.0.14,minecraftmultipartcbe@2.6.2.83,enderioconduitsopencomputers@5.3.70,login_shield@1.12.2-6-g5654706,recipehandler@0.13,damagetilt@0.1.0,netherendingores@1.12.2-1.4.2,dynamiclights_onfire@1.0.7,clarity@1.1,forestry@5.8.2.422,defaultoptions@9.2.8,buildcraftlib@7.99.24.8,enderiointegrationforestry@5.3.70,netherportalfix@5.3.17,hats@7.1.1,binniecore@2.5.1.203,creativecoredummy@1.0.0,openmods@0.12.2,additionalbanners@1.1.77,dynamiclights_floodlights@1.0.3,cofhcore@4.6.6,growthcraft_bamboo@4.2.2,dynamiclights@1.4.9,kleeslabs@5.4.12,plustic@8.0.1.0,reborncore@3.19.5,controlling@3.0.10,cookingforblockheads@6.5.0,advsolarpatchcore@1.0,placebo@1.6.0,ae2stuff@0.7.0.4,fencejumper@1.0.5,culinaryconstruct@1.3.4,bookshelf@2.3.590,featuredservers@1.12-1.0.6,extraplanets@1.12.2-0.7.3,hatstand@7.1.0,projectred-illumination@4.9.4.120,cofhworld@1.4.0,dynamiclights_otherplayers@1.0.9,mekanismgenerators@1.12.2-9.8.3.390,plethora@1.2.3,thaumcraft@6.1.BETA26,chatflow@ANT:VERSION,twilightforest@3.11.1021,growthcraft@4.2.2,thaumictinkerer@1.12.2-5.0-620a0c5,morph@7.2.0,extratrees@2.5.1.203,charset@0.5.6.5,growthcraft_cellar@4.2.2,ambientsounds@3.0,crafttweakerjei@2.0.3,enderiomachines@5.3.70,jehc@1.7.2,botany@2.5.1.203,openmodscore@0.12.2,dogslie@1.0.2,energyconverters@1.3.7.30,helpfixer@1.12.1-1.5.18,teslacorelib_registries@1.0.17,roguelike@1.8.0,patchouli@1.0-23.6,advanced_solar_panels@4.3.0,projectred-transmission@4.9.4.120,gunpowderlib@1.12.2-1.1,asmc@1.0.2,enderioconduitsappliedenergistics@5.3.70,mekanismtools@1.12.2-9.8.3.390,norecipebook@1.2.1,advmachinespatchcore@1.0,computercraft@1.89.2,moreoverlays@1.15.1,bigreactors@1.12.2-0.4.5.68,growthcraft_grapes@4.2.2,jetif@1.5.2,zettaindustries@1.3,worldcontrol@1.0.31,badwithernocookiereloaded@1.12.2-3.4.18,buildcraftcore@7.99.24.8,extracells@2.6.5,cucumber@1.1.3,asielib@1.0.0,googlyeyes@7.1.1,defaultworldgenerator-port@1.12-2.3,buildcrafttransport@7.99.24.8,longfallboots@1.2.1a,dynamiclights_theplayer@1.1.3,ivtoolkit@1.3.3-1.12,pip@7.0.0,mcp@9.42,treecapitator@1.43.0,diethopper@1.1,appliedenergistics2@rv6-stable-7,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,harvestcraft@1.12.2zb,jeid@1.0.3-55,foamfixcore@7.7.4,toastcontrol@1.8.1,computronics@1.6.6,ichunutil@7.2.2,growthcraft_rice@4.2.2,enderstorage@2.4.6.137,projectred-compat@1.0,akashictome@1.2-12,bloodmagic@1.12.2-2.4.3-105,magicbees@1.0,buildcraftrobotics@7.99.24.8,mysticalagriculture@1.7.5,openblocks@1.8.1,backups@1.5.6,tconstruct@1.12.2-2.13.0.183,portalgun@7.1.0,itlt@1.0.4,enchdesc@1.1.15,playerplates@1.12.2-1.3.1.1,dynamiclights_entityclasses@1.0.1,ltta@1.4.0,baubles@1.5.2,exchangers@1.12.2-2.10.1,creativecore@1.10.0,growthcraft_apples@4.2.2,projectred-relocation@4.9.4.120,stevescarts@2.4.32.137,genetics@2.5.1.203,integrationforegoing@1.12.2-1.11,enderio@5.3.70,vanillafix@1.0.10-150,quark@r1.6-179,jaopca@1.12.2-2.2.8.105,fastbench@1.7.3,blockcraftery@1.12.2-1.3.1,natura@1.12.2-4.3.2.69,wrapup@1.12-1.1.3,projectred-expansion@4.9.4.120,statues@1.0.1,gasconduits@5.3.70,schematica@1.8.0.169,enderiobase@5.3.70,wrcbe@2.3.2,wanionlib@1.12.2-2.5,chisel@MC1.12.2-1.0.2.45,foamfix@0.10.14-1.12.2,modularrouters@1.12.2-3.3.0-33,tinkersjei@1.2,opencomputers|core@1.7.5.192,mjrlegendslib@1.12.2-1.2.1,voxelmap@1.9.19,backpack@3.0.2,chiselsandbits@14.33,morphtool@1.2-21,translocators@2.5.2.81
+[00:06:52] [Netty Server IO #7/INFO]: Skipping config sync, No mods have registered a syncable config.
+[00:06:52] [Netty Local Client IO #3/INFO]: [Netty Local Client IO #3] Client side modded connection established
+[00:06:52] [Server thread/INFO]: [Server thread] Server side modded connection established
+[00:06:52] [Server thread/INFO]: MENTTTAL[local:E:9183e907] logged in with entity id 29040 at (153.6910412907123, 68.0, 61.91911967446217)
+[00:06:52] [Server thread/INFO]: MENTTTAL joined the game
+[00:06:52] [Server thread/INFO]: Player GCEntityPlayerMP['MENTTTAL'/29040, l='New Modded World', x=153.69, y=68.00, z=61.92] connected. Sending ping
+[00:06:52] [Server thread/INFO]: Clearing cached mega torches
+[00:06:52] [Server thread/INFO]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[00:06:52] [Netty Local Client IO #3/INFO]: Received server authentication msg. Remote sync will be activated
+[00:06:52] [Client thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[00:06:52] [Client thread/INFO]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[00:06:52] [Server thread/INFO]: Found void at X:153 Y:68 Z:60
+[00:06:52] [Server thread/INFO]: Teleporting player: MENTTTAL in dim: 6
+[00:06:53] [Thread-47967/INFO]: Stopping aura thread for dim 1
+[00:06:53] [Thread-47973/INFO]: Stopping aura thread for dim 7
+[00:06:53] [Thread-47970/INFO]: Stopping aura thread for dim -11325
+[00:06:53] [Thread-47968/INFO]: Stopping aura thread for dim -1
+[00:06:53] [Thread-47969/INFO]: Stopping aura thread for dim -6
+[00:06:54] [Server thread/INFO]: Saving and pausing game...
+[00:06:55] [Server thread/INFO]: Saving chunks for level 'New Modded World'/overworld
+[00:06:55] [Netty Local Client IO #3/INFO]: Received Cardboard Box blacklist entries from server (26 explicit blocks, 2 mod wildcards)
+[00:06:59] [Server thread/INFO]: Saving chunks for level 'New Modded World'/ExtraUtils2_Quarry_Dim
+[00:06:59] [Server thread/INFO]: Saving chunks for level 'New Modded World'/Storage Cell
+[00:06:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4689ms behind, skipping 93 tick(s)
+[00:07:00] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: §3§o[The 1.12.2 Pack] §r§b§oMENTTTAL, have fun playing!
+[00:07:00] [Client thread/INFO]: [CHAT] §3§o[The 1.12.2 Pack] §r§b§oMENTTTAL, have fun playing!
+[00:07:00] [Client thread/INFO]: Loaded 70 advancements
+[00:07:01] [Client thread/WARN]: Received passengers for unknown entity
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:12] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:13] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:14] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:18] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:19] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:19] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:19] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:19] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3212ms behind, skipping 64 tick(s)
+[00:07:42] [Server thread/INFO]: [MENTTTAL: Set own game mode to Creative Mode]
+[00:07:42] [Client thread/INFO]: [vazkii.chatflow.handler.MessageMeddler:onMessageReceived:24]: Your game mode has been updated to §r§7§oCreative Mode
+[00:07:42] [Client thread/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:44] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_natura_nether_logs} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 2!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:45] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_minecraft_log2} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 2!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/ERROR]: Mod requested parent item sstack for Block{debark:debarked_log_biomesoplenty_log_4} with invalid variant number 3!
+[00:07:46] [Thread-47976/INFO]: [vswe.superfactory.util.SearchUtil:lambda$buildCache$6:102]: [SFM] Indexed 100000 items in 54376ms.
+[00:07:48] [Server thread/INFO]: Saving and pausing game...
+[00:07:48] [Server thread/INFO]: Saving chunks for level 'New Modded World'/overworld
+[00:07:49] [Server thread/INFO]: Saving chunks for level 'New Modded World'/ExtraUtils2_Quarry_Dim
+[00:07:49] [Server thread/INFO]: Saving chunks for level 'New Modded World'/Storage Cell
+[00:09:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3534ms behind, skipping 70 tick(s)
+[01:05:43] [Thread-20/ERROR]: Error in class 'ChannelLWJGL OpenAL'
+[01:05:43] [Thread-20/ERROR]: Invalid enumerated parameter value.
