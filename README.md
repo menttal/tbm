@@ -2,9 +2,16 @@
 the big modpack
 
 How to install:
+
+Technic:
 1. close technic launhcer
 2. put "the-1122-pack" folder into /AppData/Roaming/.technic/modpacks/
 3. run technic launcher
+
+Curseforge:
+1. go into "C:\Users\<Your User>\curseforge\minecraft\Instances\"
+2. put "tbm" folder in "Instances\"
+3. run by pressing play
 
 wtf is this modpack? Well one day i woke up and wanted to play ftb revelations but i realised
 i didnt have rftools... then i didnt have something else.... then another thing.... and i decided

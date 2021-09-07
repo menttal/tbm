@@ -1,0 +1,308 @@
+[10:57:53] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:57:53] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:57:53] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:57:53] [main/INFO]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
+[10:57:53] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Mental\curseforge\minecraft\Install\runtime\jre-legacy\windows-x64\jre-legacy
+[10:57:55] [main/INFO]: Searching C:\Users\Mental\curseforge\minecraft\Instances\tbm\mods for mods
+[10:57:55] [main/INFO]: Searching C:\Users\Mental\curseforge\minecraft\Instances\tbm\mods\1.12.2 for mods
+[10:57:55] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in advmachinespatch-1.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:55] [main/WARN]: The coremod AFMLLoadingPlugin (mods.su5ed.advmachinespatch.asm.AFMLLoadingPlugin) is not signed!
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ae2fc-1.12.2-1.0.11.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:55] [main/WARN]: The coremod xyz.phanta.ae2fc.coremod.FcCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:55] [main/WARN]: The coremod FcCoreMod (xyz.phanta.ae2fc.coremod.FcCoreMod) is not signed!
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Aroma1997Core-1.12.2-2.0.0.2.b167.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:55] [main/WARN]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in bedpatch-2.2-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:55] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from bewitchment-1.12.2-0.0.22.64.jar
+[10:57:55] [main/INFO]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.63_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:55] [main/WARN]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:55] [main/WARN]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:55] [main/WARN]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:55] [main/WARN]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in engineers_doors-1.12.2-0.9.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:55] [main/WARN]: The coremod EngineersDoorsLoadingPlugin (nihiltres.engineersdoors.common.asm.EngineersDoorsLoadingPlugin) is not signed!
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.14-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:55] [main/WARN]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:55] [main/WARN]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:55] [main/WARN]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in GalaxySpace-1.12.2-2.0.16.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:55] [main/WARN]: The coremod galaxyspace.core.hooks.GSHooksLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:55] [main/WARN]: The coremod GSHooksLoader (galaxyspace.core.hooks.GSHooksLoader) is not signed!
+[10:57:55] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in HammerLib-1.12.2-2.0.6.28.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in iceandfire-1.9.1-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod iceandfire (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from JustEnoughIDs-1.0.3-55.jar
+[10:57:56] [main/WARN]: The coremod net.creeperhost.launchertray.transformer.HookLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod Launcher Tray (net.creeperhost.launchertray.transformer.HookLoader) is not signed!
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in librarianlib-1.12.2-4.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod com.teamwizardry.librarianlib.asm.LibLibCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod LibrarianLib Plugin (com.teamwizardry.librarianlib.asm.LibLibCorePlugin) is not signed!
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in LittleTiles_v1.5.21_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod com.creativemd.littletiles.LittlePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod LittlePatchingLoader (com.creativemd.littletiles.LittlePatchingLoader) is not signed!
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[10:57:56] [main/WARN]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[10:57:56] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from More-Planets-1.12.2-2.2.1-GC280.jar
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in NotEnoughIDs-1.5.4.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod ru.fewizz.neid.asm.Plugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod Plugin (ru.fewizz.neid.asm.Plugin) is not signed!
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in OpenComputers-MC1.12.2-1.7.5.192.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod li.cil.oc.common.launch.TransformerLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod TransformerLoader (li.cil.oc.common.launch.TransformerLoader) is not signed!
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in OpenSecurity-1.12.2-1.0-71.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod pcl.opensecurity.util.SoundUnpack does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod SoundUnpack (pcl.opensecurity.util.SoundUnpack) is not signed!
+[10:57:56] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from performant-1.12.2-1.10.jar
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[10:57:56] [main/WARN]: The coremod com.therandomlabs.randompatches.core.RPCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod pl.asie.splashanimation.core.SplashAnimationCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SteveKunG's-Lib-1.12.2-1.1.10.jar
+[10:57:56] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Surge-1.12.2-2.0.77.jar
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ThaumicAugmentation-1.12.2-2.1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in thaumicwands-1.2.6.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:57:56] [main/WARN]: The coremod de.zpenguin.thaumicwands.asm.ThaumicWandsCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod ThaumicWandsCore (de.zpenguin.thaumicwands.asm.ThaumicWandsCore) is not signed!
+[10:57:56] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-forge-mc1.12.2-0.2.7-universal.jar
+[10:57:56] [main/WARN]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod IELoadingPlugin (blusunrize.immersiveengineering.common.asm.IELoadingPlugin) is not signed!
+[10:57:56] [main/WARN]: The coremod pl.pabilo8.immersiveintelligence.common.asm.IILoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod shetiphian.asm.TweakPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:57:56] [main/WARN]: The coremod ShetiPhian-ASM (shetiphian.asm.TweakPlugin) is not signed!
+[10:57:56] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:57:56] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[10:57:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Mental/curseforge/minecraft/Instances/tbm/mods/_MixinBootstrap-1.1.0.jar Service=LaunchWrapper Env=CLIENT
+[10:57:57] [main/DEBUG]: Instantiating coremod class BewitchmentFMLLoadingPlugin
+[10:57:57] [main/DEBUG]: The coremod com.bewitchment.core.BewitchmentFMLLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[10:57:57] [main/WARN]: The coremod BewitchmentFMLLoadingPlugin (com.bewitchment.core.BewitchmentFMLLoadingPlugin) is not signed!
+[10:57:57] [main/DEBUG]: Enqueued coremod BewitchmentFMLLoadingPlugin
+[10:57:57] [main/DEBUG]: Instantiating coremod class JEIDLoadingPlugin
+[10:57:57] [main/TRACE]: coremod named JustEnoughIDs Extension Plugin is loading
+[10:57:57] [main/DEBUG]: The coremod org.dimdev.jeid.JEIDLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[10:57:57] [main/WARN]: The coremod JustEnoughIDs Extension Plugin (org.dimdev.jeid.JEIDLoadingPlugin) is not signed!
+[10:57:57] [main/INFO]: Initializing JustEnoughIDs core mixins
+[10:57:57] [main/INFO]: Compatibility level set to JAVA_8
+[10:57:57] [main/INFO]: Initializing JustEnoughIDs initialization mixins
+[10:57:57] [main/DEBUG]: Enqueued coremod JustEnoughIDs Extension Plugin
+[10:57:57] [main/DEBUG]: Instantiating coremod class PerformantLoadingPlugin
+[10:57:57] [main/DEBUG]: The coremod com.performant.coremod.PerformantLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[10:57:57] [main/WARN]: The coremod PerformantLoadingPlugin (com.performant.coremod.PerformantLoadingPlugin) is not signed!
+[10:57:57] [main/DEBUG]: Enqueued coremod PerformantLoadingPlugin
+[10:57:57] [main/DEBUG]: Instantiating coremod class SteveKunGLibPlugin
+[10:57:57] [main/INFO]: Initializing SteveKunG's Lib plugin!
+[10:57:57] [main/DEBUG]: The coremod stevekung.mods.stevekunglib.core.SteveKunGLibPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[10:57:57] [main/WARN]: The coremod SteveKunGLibPlugin (stevekung.mods.stevekunglib.core.SteveKunGLibPlugin) is not signed!
+[10:57:57] [main/DEBUG]: Enqueued coremod SteveKunGLibPlugin
+[10:57:57] [main/DEBUG]: Instantiating coremod class SurgeLoadingPlugin
+[10:57:57] [main/DEBUG]: The coremod net.darkhax.surge.core.SurgeLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[10:57:57] [main/DEBUG]: Found signing certificates for coremod SurgeLoadingPlugin (net.darkhax.surge.core.SurgeLoadingPlugin)
+[10:57:57] [main/DEBUG]: Found certificate d476d1b22b218a10d845928d1665d45fce301b27
+[10:57:57] [main/DEBUG]: Enqueued coremod SurgeLoadingPlugin
+[10:57:57] [main/DEBUG]: Instantiating coremod class PhosphorFMLLoadingPlugin
+[10:57:57] [main/DEBUG]: The coremod me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[10:57:57] [main/WARN]: The coremod PhosphorFMLLoadingPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin) is not signed!
+[10:57:57] [main/DEBUG]: Enqueued coremod PhosphorFMLLoadingPlugin
+[10:57:57] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[10:57:57] [main/INFO]: Loading tweak class name codechicken.asm.internal.Tweaker
+[10:57:57] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[10:57:57] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[10:57:57] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[10:57:57] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[10:57:57] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[10:57:57] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[10:57:57] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:57:57] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:57:57] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:57:57] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:57:57] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[10:57:57] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[10:57:57] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[10:57:57] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[10:57:57] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[10:57:57] [main/DEBUG]: Injection complete
+[10:57:57] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[10:57:57] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[10:58:01] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[10:58:01] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[10:58:01] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
+[10:58:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:01] [main/DEBUG]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[10:58:01] [main/DEBUG]: Injection complete
+[10:58:01] [main/DEBUG]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[10:58:01] [main/DEBUG]: Running coremod plugin FMLForgePlugin
+[10:58:01] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
+[10:58:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:01] [main/DEBUG]: Injecting coremod AFMLLoadingPlugin \{mods.su5ed.advmachinespatch.asm.AFMLLoadingPlugin\} class transformers
+[10:58:01] [main/TRACE]: Registering transformer mods.su5ed.advmachinespatch.asm.AClassTransformer
+[10:58:01] [main/DEBUG]: Injection complete
+[10:58:01] [main/DEBUG]: Running coremod plugin for AFMLLoadingPlugin \{mods.su5ed.advmachinespatch.asm.AFMLLoadingPlugin\}
+[10:58:01] [main/DEBUG]: Running coremod plugin AFMLLoadingPlugin
+[10:58:01] [main/DEBUG]: Coremod plugin class AFMLLoadingPlugin run successfully
+[10:58:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:01] [main/DEBUG]: Injecting coremod FcCoreMod \{xyz.phanta.ae2fc.coremod.FcCoreMod\} class transformers
+[10:58:01] [main/TRACE]: Registering transformer xyz.phanta.ae2fc.coremod.FcClassTransformer
+[10:58:01] [main/DEBUG]: Injection complete
+[10:58:01] [main/DEBUG]: Running coremod plugin for FcCoreMod \{xyz.phanta.ae2fc.coremod.FcCoreMod\}
+[10:58:01] [main/DEBUG]: Running coremod plugin FcCoreMod
+[10:58:01] [main/DEBUG]: Coremod plugin class FcCoreMod run successfully
+[10:58:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:01] [main/DEBUG]: Injecting coremod CoreMod \{aroma1997.core.coremod.CoreMod\} class transformers
+[10:58:01] [main/DEBUG]: Injection complete
+[10:58:01] [main/DEBUG]: Running coremod plugin for CoreMod \{aroma1997.core.coremod.CoreMod\}
+[10:58:01] [main/DEBUG]: Running coremod plugin CoreMod
+[10:58:01] [main/INFO]: Finished data injection.
+[10:58:01] [main/INFO]: Finished data injection.
+[10:58:01] [main/DEBUG]: Coremod plugin class CoreMod run successfully
+[10:58:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:01] [main/DEBUG]: Injecting coremod CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\} class transformers
+[10:58:01] [main/DEBUG]: Injection complete
+[10:58:01] [main/DEBUG]: Running coremod plugin for CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\}
+[10:58:01] [main/DEBUG]: Running coremod plugin CreativePatchingLoader
+[10:58:01] [main/DEBUG]: Coremod plugin class CreativePatchingLoader run successfully
+[10:58:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:01] [main/DEBUG]: Injecting coremod ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\} class transformers
+[10:58:01] [main/DEBUG]: Injection complete
+[10:58:01] [main/DEBUG]: Running coremod plugin for ForgelinPlugin \{net.shadowfacts.forgelin.preloader.ForgelinPlugin\}
+[10:58:01] [main/DEBUG]: Running coremod plugin ForgelinPlugin
+[10:58:01] [main/DEBUG]: Coremod plugin class ForgelinPlugin run successfully
+[10:58:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:01] [main/DEBUG]: Injecting coremod GSHooksLoader \{galaxyspace.core.hooks.GSHooksLoader\} class transformers
+[10:58:01] [main/TRACE]: Registering transformer galaxyspace.core.hooklib.minecraft.PrimaryClassTransformer
+[10:58:01] [main/INFO]: [galaxyspace.core.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container galaxyspace.core.hooklib.minecraft.SecondaryTransformerHook
+[10:58:01] [main/INFO]: [HOOKLIB]  Obfuscated: true
+[10:58:02] [main/DEBUG]: Injection complete
+[10:58:02] [main/DEBUG]: Running coremod plugin for GSHooksLoader \{galaxyspace.core.hooks.GSHooksLoader\}
+[10:58:02] [main/DEBUG]: Running coremod plugin GSHooksLoader
+[10:58:02] [main/INFO]: [galaxyspace.core.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container galaxyspace.core.hooks.GSHooksManager
+[10:58:02] [main/DEBUG]: Coremod plugin class GSHooksLoader run successfully
+[10:58:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:02] [main/DEBUG]: Injecting coremod HCASM \{com.zeitheron.hammercore.asm.HCASM\} class transformers
+[10:58:02] [main/TRACE]: Registering transformer com.zeitheron.hammercore.asm.HammerCoreTransformer
+[10:58:02] [main/DEBUG]: Injection complete
+[10:58:02] [main/DEBUG]: Running coremod plugin for HCASM \{com.zeitheron.hammercore.asm.HCASM\}
+[10:58:02] [main/DEBUG]: Running coremod plugin HCASM
+[10:58:02] [main/DEBUG]: Coremod plugin class HCASM run successfully
+[10:58:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:02] [main/DEBUG]: Injecting coremod LittlePatchingLoader \{com.creativemd.littletiles.LittlePatchingLoader\} class transformers
+[10:58:02] [main/TRACE]: Registering transformer com.creativemd.littletiles.LittleTilesTransformer
+[10:58:02] [main/DEBUG]: Injection complete
+[10:58:02] [main/DEBUG]: Running coremod plugin for LittlePatchingLoader \{com.creativemd.littletiles.LittlePatchingLoader\}
+[10:58:02] [main/DEBUG]: Running coremod plugin LittlePatchingLoader
+[10:58:02] [main/DEBUG]: Coremod plugin class LittlePatchingLoader run successfully
+[10:58:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:02] [main/DEBUG]: Injecting coremod MicdoodlePlugin \{micdoodle8.mods.miccore.MicdoodlePlugin\} class transformers
+[10:58:02] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[10:58:02] [main/TRACE]: Registering transformer micdoodle8.mods.miccore.MicdoodleTransformer
+[10:58:02] [main/DEBUG]: Injection complete
+[10:58:02] [main/DEBUG]: Running coremod plugin for MicdoodlePlugin \{micdoodle8.mods.miccore.MicdoodlePlugin\}
+[10:58:02] [main/DEBUG]: Running coremod plugin MicdoodlePlugin
+[10:58:03] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[10:58:03] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[10:58:03] [main/DEBUG]: Coremod plugin class MicdoodlePlugin run successfully
+[10:58:03] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:03] [main/DEBUG]: Injecting coremod SoundUnpack \{pcl.opensecurity.util.SoundUnpack\} class transformers
+[10:58:03] [main/DEBUG]: Injection complete
+[10:58:03] [main/DEBUG]: Running coremod plugin for SoundUnpack \{pcl.opensecurity.util.SoundUnpack\}
+[10:58:03] [main/DEBUG]: Running coremod plugin SoundUnpack
+[10:58:03] [main/INFO]: [pcl.opensecurity.util.SoundUnpack:load:25]: Extracting sounds from: assets/opensecurity/sounds/alarms/
+[10:58:03] [main/INFO]: [pcl.opensecurity.util.SoundUnpack:load:37]: Extracting file: klaxon1.ogg
+[10:58:03] [main/INFO]: [pcl.opensecurity.util.SoundUnpack:load:37]: Extracting file: klaxon2.ogg
+[10:58:03] [main/DEBUG]: Coremod plugin class SoundUnpack run successfully
+[10:58:03] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[10:58:03] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5fb44964
+[10:58:03] [main/DEBUG]: Injecting coremod BewitchmentFMLLoadingPlugin \{com.bewitchment.core.BewitchmentFMLLoadingPlugin\} class transformers
+[10:58:03] [main/DEBUG]: Injection complete
+[10:58:03] [main/DEBUG]: Running coremod plugin for BewitchmentFMLLoadingPlugin \{com.bewitchment.core.BewitchmentFMLLoadingPlugin\}
+[10:58:03] [main/DEBUG]: Running coremod plugin BewitchmentFMLLoadingPlugin
+[10:58:03] [main/DEBUG]: Coremod plugin class BewitchmentFMLLoadingPlugin run successfully
+[10:58:03] [main/DEBUG]: Injecting coremod JustEnoughIDs Extension Plugin \{org.dimdev.jeid.JEIDLoadingPlugin\} class transformers
+[10:58:03] [main/TRACE]: Registering transformer org.dimdev.jeid.JEIDTransformer
+[10:58:03] [main/DEBUG]: Injection complete
+[10:58:03] [main/DEBUG]: Running coremod plugin for JustEnoughIDs Extension Plugin \{org.dimdev.jeid.JEIDLoadingPlugin\}
+[10:58:03] [main/DEBUG]: Running coremod plugin JustEnoughIDs Extension Plugin
+[10:58:03] [main/DEBUG]: Coremod plugin class JEIDLoadingPlugin run successfully
+[10:58:03] [main/DEBUG]: Injecting coremod PerformantLoadingPlugin \{com.performant.coremod.PerformantLoadingPlugin\} class transformers
+[10:58:03] [main/DEBUG]: Injection complete
+[10:58:03] [main/DEBUG]: Running coremod plugin for PerformantLoadingPlugin \{com.performant.coremod.PerformantLoadingPlugin\}
+[10:58:03] [main/DEBUG]: Running coremod plugin PerformantLoadingPlugin
+[10:58:03] [main/DEBUG]: Coremod plugin class PerformantLoadingPlugin run successfully
+[10:58:03] [main/DEBUG]: Injecting coremod SteveKunGLibPlugin \{stevekung.mods.stevekunglib.core.SteveKunGLibPlugin\} class transformers
+[10:58:03] [main/DEBUG]: Injection complete
+[10:58:03] [main/DEBUG]: Running coremod plugin for SteveKunGLibPlugin \{stevekung.mods.stevekunglib.core.SteveKunGLibPlugin\}
+[10:58:03] [main/DEBUG]: Running coremod plugin SteveKunGLibPlugin
+[10:58:03] [main/DEBUG]: Coremod plugin class SteveKunGLibPlugin run successfully
+[10:58:03] [main/DEBUG]: Injecting coremod SurgeLoadingPlugin \{net.darkhax.surge.core.SurgeLoadingPlugin\} class transformers
+[10:58:03] [main/DEBUG]: Injection complete
+[10:58:03] [main/DEBUG]: Running coremod plugin for SurgeLoadingPlugin \{net.darkhax.surge.core.SurgeLoadingPlugin\}
+[10:58:03] [main/DEBUG]: Running coremod plugin SurgeLoadingPlugin
+[10:58:03] [main/DEBUG]: Coremod plugin class SurgeLoadingPlugin run successfully
+[10:58:03] [main/DEBUG]: Injecting coremod PhosphorFMLLoadingPlugin \{me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin\} class transformers
+[10:58:03] [main/DEBUG]: Injection complete
+[10:58:03] [main/DEBUG]: Running coremod plugin for PhosphorFMLLoadingPlugin \{me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin\}
+[10:58:03] [main/DEBUG]: Running coremod plugin PhosphorFMLLoadingPlugin
+[10:58:03] [main/DEBUG]: Coremod plugin class PhosphorFMLLoadingPlugin run successfully
+[10:58:03] [main/INFO]: Calling tweak class codechicken.asm.internal.Tweaker
+[10:58:03] [main/INFO]: [codechicken.asm.internal.Tweaker:injectIntoClassLoader:30]: false
+[10:58:03] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:58:03] [main/DEBUG]: Injecting coremod OpenModsCorePlugin \{openmods.core.OpenModsCorePlugin\} class transformers
+[10:58:03] [main/TRACE]: Registering transformer openmods.core.OpenModsClassTransformer
+[10:58:03] [main/DEBUG]: Injection complete
+[10:58:03] [main/DEBUG]: Running coremod plugin for OpenModsCorePlugin \{openmods.core.OpenModsCorePlugin\}
+[10:58:03] [main/DEBUG]: Running coremod plugin OpenModsCorePlugin
+[10:58:04] [main/DEBUG]: Coremod plugin class OpenModsCorePlugin run successfully
+[10:58:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:58:04] [main/DEBUG]: Validating minecraft
+[10:58:04] [main/INFO]: [galaxyspace.core.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[10:58:04] [main/INFO]: [galaxyspace.core.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[10:58:04] [main/FATAL]: A CRITICAL PROBLEM OCCURRED INITIALIZING MINECRAFT - LIKELY YOU HAVE AN INCORRECT VERSION FOR THIS FML
+[10:58:04] [main/ERROR]: Unable to launch
+java.lang.RuntimeException: java.lang.ClassNotFoundException: net.minecraftforge.fml.common.Loader
+	at net.minecraftforge.fml.common.launcher.FMLDeobfTweaker.injectIntoClassLoader(FMLDeobfTweaker.java:67) ~[forge-1.12.2-14.23.5.2855.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.ClassNotFoundException: net.minecraftforge.fml.common.Loader
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_51]
+	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.common.launcher.FMLDeobfTweaker.injectIntoClassLoader(FMLDeobfTweaker.java:56) ~[forge-1.12.2-14.23.5.2855.jar:?]
+	... 2 more
+Caused by: java.lang.NoSuchMethodError: org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(Lorg/spongepowered/asm/service/IMixinService;Lorg/spongepowered/asm/mixin/transformer/MixinConfig;Ljava/lang/String;Lorg/spongepowered/asm/mixin/transformer/PluginHandle;ZLorg/spongepowered/asm/mixin/transformer/ext/Extensions;)V
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:850) ~[_MixinBootstrap-1.1.0.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:775) ~[_MixinBootstrap-1.1.0.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:539) ~[_MixinBootstrap-1.1.0.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) ~[_MixinBootstrap-1.1.0.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[_MixinBootstrap-1.1.0.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[_MixinBootstrap-1.1.0.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[_MixinBootstrap-1.1.0.jar:?]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[_MixinBootstrap-1.1.0.jar:?]
+	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72) ~[_MixinBootstrap-1.1.0.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_51]
+	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_51]
+	at net.minecraftforge.fml.common.launcher.FMLDeobfTweaker.injectIntoClassLoader(FMLDeobfTweaker.java:56) ~[forge-1.12.2-14.23.5.2855.jar:?]
+	... 2 more
+[10:58:04] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[10:58:04] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[10:58:04] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[10:58:04] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.Runtime.exit(Runtime.java:107)
+[10:58:04] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.System.exit(System.java:971)
+[10:58:04] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[10:58:04] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)

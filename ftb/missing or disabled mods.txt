@@ -1,0 +1,16 @@
+Disabled:
+Applied Fluidics n (replaced by AE2 Fluid Craft)
+GTCE Bees (disabled because crash)
+Tinkers' Reforged (there are enough compatability items)
+Arcane Essentials (Electroblob's Wizardry) (crashes because it isn't updated to electroblobs wizardry 4.3+)
+Converting Industrial Wires (industrail wires says it handles rf/fe)
+NuclearCraft (disabled because using NuclearCraft: Overhauled instead of this version)
+Psio (crash)
+PSICaster (crash)
+Electro-Thaumic Tools - IC2 Classic n (for ic2 classic, but we are using ic2)
+Advanced Solar Panels (incompatible with Industrial Upgrade)
+Advanced Solar Panels  Patcher (addon for Advanced Solar Panels)
+
+
+Temporary removed:
+Thaumic Calculations (VERY SLOW forge load time)
