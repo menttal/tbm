@@ -1,0 +1,579 @@
+https://www.feed-the-beast.com/modpack/ftb_revelation
+
+Minecraft:
+Mystery's Stripped Logs Mod
+Zetta Industries
+Lava Industries
+Effortless Building
+Vanilla Builders Extension
+Alternative Equipment Repair Station (A.E.R.S.)
+Extra Equipment
+CedKilleur's Stuff
+CedKilleur's ProjectE AddOn
+Stairway to Aether
+Extra Golems
+Extra Bows
+More Plates
+Cool Gadgets
+Spice of Life: Carrot Edition
+Extreme Charcoal
+Building Gadgets
+Yoyos
+Angel Ring To Bauble
+Just Enough Calculation
+Just Enough Pattern Banners
+Enchantment Descriptions
+YUNG's Better Mineshafts (Forge)
+AttributeFix
+Cyclic
+KleeSlabs
+FastFurnace
+Comforts (Forge)
+Overloaded Armor Bar
+Performant
+Random Things
+Armor Toughness Bar
+Charm
+Gauges and Switches
+Colossal Chests
+Glassential
+Portality
+Surge
+Illagers+
+No Night Vision Flashing
+Useful Nullifiers
+Engineers Workshop Reborn
+Wolf Armor and Storage (Legacy)
+Food Expansion
+Login Shield
+Anvil Patch - lawful
+Not Enough Wands
+Inspirations
+Lapis Stays in the Enchanting Table
+Trinkets and Baubles
+Dirt2Path
+Advanced Fishing
+Skewers
+Enchanting Plus
+Forgotten Items
+Hopper Ducts
+Ender Crop
+Pressure Pipes
+Roost
+Living Enchantment
+More Buckets
+Power Adapters
+EvilCraft
+Illuminations
+Simple Teleporters
+Spiders 2.0
+Advanced Shulkerboxes
+Moar Boats
+ChickensShed
+
+
+Psi: y
+Psi y
+Psionic Peripherals y
+Random PSIdeas y
+PSICaster y
+
+Immersive Engineering: y
+Immersive Posts y
+Immersive Technology y
+Immersive Intelligence y
+Immersive Railroading y
+Immersive Tech OreDictionary y
+Immersive IO y
+Alternating Flux y
+Just Enough Petroleum y
+Engineer's Doors y
+Engineer's Tools y
+ 
+RFTools: y
+RFtools Dimensions y
+RFTools Power / OC Integration y
+DimStorage y
+
+OpenComputers: y
+OpenComputers y
+OpenPrinter y
+OpenSecurity y
+OpenGlasses2 y
+OpenLights y 
+OC XNet Driver y
+OpenComputers Drivers for Tinkers Construct y
+
+
+Forestry: y w/ 1
+More Bees y
+Equivalent Bees y
+GTCE Bees n (disabled because crash)
+
+Applied Energistics 2: y w/ 1
+Extra CPUs y
+Growable Storage Cells y
+PlaneFix y
+ME Capability Adapter y
+SpatialCompat y
+AE Additions - ExtraCells2 Fork
+AE2 Stuff y
+Applied Integrations y
+Ender IO AE2 Conduits y
+Applied Fluidics n (replaced by AE2 Fluid Craft)
+Dynamistics y
+Useless Utilities y
+Lazy AE2 y
+AE2 Network Visualiser y
+AE2 Wireless Fluid Terminal y
+AE2 Wireless Interface Terminal y
+Wireless Pattern Terminal y
+
+
+LittleTiles: y
+LittleTiles y
+Little Opener y
+LittleFrames y
+LittleTiles 3D Importer y
+
+PackagedAuto: y
+PackagedAuto y
+PackagedExCrafting y
+Extended Crafting y
+
+
+Botania: y
+ExtraBotany y
+AIOT Botania y
+
+Mekanism: y
+Mekanism y
+Mekanism Generators y
+Mekanism Tools y
+MekanismOres y
+Mekanism Fluxified y
+Gas Conduits y
+
+
+Ender IO: y
+Ender IO Base y
+Ender IO Conduits y
+Ender IO Machines y
+Ender IO Inv Panel y
+Ender IO RS Conduits y
+Ender IO Forestry y
+Ender IO OC Conduits y
+Ender IO TiC y
+Ender IO AE2 Conduits y
+Loot Capacitor Tooltips
+Ender IO Zoo y
+Ender IO Endergy y
+OC Ender IO Driver y
+
+backup 1 ends here
+---------------------------------------------------------------------------------------------------------------
+
+Pam's Harvestcraft: y
+Pam's Cookables - Pam's Harvestcraft Addon y
+Pam's Simple Recipes y
+Pam's Get All the Seeds! y
+Pam's BrewCraft y
+Pam's Weee! Flowers y
+PamSimpleHarvest (Harvest With Right button, disable easy harvest in pams) y
+Pam's Clay Spawn y
+Pam's Pig Skin y
+Pam's DesertCraft y
+Pam's Squid Milking y
+Pam's BoneCraft y
+Pam's Llama Milking y
+Pam's Simply Strawberries y
+Pam's Sheep Milking y
+Pam's Redbud Tree y
+Pam's Spooky Tree y
+Pam's BreadCraft - Pam's HarvestCraft Addon y
+JAFFA Foods (A HarvestCraft Addon) y
+
+Tinker's Construct: y w/ 1
+Construct's Armory y
+Tinker's JEI y
+Tinkers' Complement y
+Moar Tinkers y
+Tinker I/O y
+TAIGA (Tinkers alloying addon) y
+Tinker's Aether y 
+Tinkers' Aether: DMAN Edition (not sure if compatible with Tinker's Aether) y
+Tinkers' Reforged (unsure to add maybe there are enough compatability items) n
+Armory Expansion y
+Advanced Alloy Ingot y
+Heroic Armory y 
+Thermal Tinkering y
+
+
+
+Electroblob's Wizardry: y w/ 1
+Electroblob's Wizardry y
+Extra Spells (Electroblob's Wizardry) y
+Electroblob's Wizardry: Twilight Forest Spell Pack y
+Magic seeds for Electroblobs Wizardry y
+Arcane Essentials (Electroblob's Wizardry) n (crashes because it isn't updated to electroblobs wizardry 4.3+)
+Ancient Spellcraft y
+
+Aether: y
+The Aether y
+Aether: Lost Content y
+Aether Continuation y
+Aether: Extra Moas y
+Aether Additions y
+Aether Repairables y
+The Aether II y
+
+ProjectE: y
+Project Intelligence y
+Expanded Equivalence y
+ProjectE y
+Project EX y
+Equivalent Energistics y
+Equivalent Integrations y
+Equivalent Additions y
+Equivalent Bees y
+Equivalent Stone y
+
+Thaumcraft: y w/ 1
+Thaumic Terminal y
+Thaumic Energistics y
+Thaumic Augmentation y
+Thaumic Computers y
+Thaumic Tinkerer y
+Thaumic Periphery y
+Thaumic Additions: Reconstructed y
+Thaumic Wonders y
+Thaumic Gadgets y
+Enchanting With Thaumcraft y
+Thaumic Restoration y
+Stable Thaumometer y
+Thaumic Brewing y
+Thaumic Calculations y
+Thaumic Wands y
+Thaumic Arcana y
+Electro-Thaumic Tools - IC2 Classic n (for ic2 classic, but we are using ic2)
+Industrial Magic - Crossover IC2 y
+Thaumcraft 6 Aspect for JEI y
+Thaumic One Probe y
+Thaumic Tech y
+ThaumicAdditionsAgriCraftCompat y
+
+
+Blood Magic: y
+Deep Mob Learning y
+Deep Mob Learning - Blood Magic Addon y
+Tinkering with Blood Magic y
+Blood Dynamo y
+Blood Smeltery y
+Blood Agricraft y
+Blood Arsenal y
+
+backup 2 end
+---------------------------------------------------------------------------------------------------------------
+
+
+Mystical Agriculture: y
+Mystical Agriculture y 
+Mystical Agradditions y
+Mystical Agriculture Tiered Crystals y
+Mystical Adaptations y
+Mystical Creations y
+Mystical Blocks y
+MystAgrad Cloche Compat y
+Mystical World y
+Mystical Mechanics API y
+Mystical Gears y
+Mystical Wildlife y
+
+Industrial Craft 2: y w/ 1
+Reactor Stuff y
+Reactor Turbines Mod for IC2 y
+Industrial Expansion [TE Addon] y
+Industrial Upgrade y
+Gunpowder Recipe (Industrial Craft 2) y
+Converting Industrial Wires (remove industrial wires) n
+Industrial Lamps y
+Buildcraft Fuels for IC2 y
+IC2C Extras y
+Compact Turbines y
+
+
+Industrial Foregoing: y
+Industrial Meat y
+Industriology y
+Industrial Foregoing / OC Compat y
+Foregoing RubberTrees y
+
+
+Rustic: y
+Rustic Thaumaturgy y
+Rustic Witchcraft y
+Rustic BOP Woods y
+
+Avaritia 1.1x: y
+Avaritia IO y
+Avaritia Tweaks y
+Avaritia's Complement y
+Avaritiaddons y
+More Avaritia y
+Avaritia Recipe Generator y
+Avaritia Furnace y
+Avaritia bedrock addon y
+
+Mystcraft: y
+Mystcraft y
+Myst Library y
+mystcraft-info y
+More Mystcraft y
+Mystcraft / OC Integration y
+MuchMoreSymbols - Mystcraft add-on y
+
+NuclearCraft: y
+NuclearCraft: Overhauled y
+NuclearCraft Helper y
+NuclearCraft Reactor Builder y
+
+Extreme Reactors: y
+Extreme Reactors y
+Just Enough Reactors y
+Iskallium Reactors y
+Tiny Reactors y
+
+Environmental Tech: y
+Environmental Materials y
+
+XNet: y
+YNot y
+
+Compact Experience Bottles: y
+Compact Experience Bottles y
+
+CompactStorage:
+CompactStorage y
+ComPatchedStorage y
+
+Compact Void Miners: y
+Compact Void Miners y
+
+Compact Machines: y
+Compact Machines y
+
+Storage Drawers: y
+Compact Drawers y
+
+Chickens: y
+Chickens y
+More Chickens y
+
+
+Embers Rekindled: y
+Embers Rekindled y 
+Soot y
+Embersified y
+Aetherworks y
+Aetherium Ashen Armor y
+Embers' Construct y
+
+Spartan Stuff: y
+Spartan Weaponry Arcana y
+Spartan Weaponry y
+Spartan Shields y
+Spartan Compatability y
+Spartan and Fire y
+
+Ice and Fire: Dragons: y
+Ice and Fire: Dragons y
+
+Aquaculture 2: y
+Aquaculture 2 y
+
+Farming for Blockheads: y
+Farming for Blockheads y
+
+Iron Jetpacks: y
+Iron Jetpacks y
+
+Tool Belt: y
+Tool Belt y
+
+PneumaticCraft: Repressurized: y
+PneumaticCraft: Repressurized y
+
+Ender Utilities: y
+Ender Utilities y
+
+Bewitchment (Legacy): y
+Bewitchment (Legacy) y
+
+backup 3 end of line
+---------------------------------------------------------------------------------------------------------------
+
+Solar Flux Reborn:
+Solar Flux Reborn
+
+Nature's Aura:
+Nature's Aura
+
+Forbidden and Arcanus:
+Forbidden and Arcanus
+
+Silent Gear:
+Silent Gear
+Dragon Gear
+Mana Gear
+Silent Addons
+Silent's Gems
+Silent's Gems: Extra Parts
+
+
+
+
+Tech Reborn:
+Tech Reborn
+Industrial Magic - TechReborn Crossover
+
+Industrial Wires ReEngineered:
+Industrial Wires ReEngineered
+
+
+Gendustry:
+Gendustry JEI Addon
+
+Galacticraft:
+Galacticraft Core (already downloaded)
+Galacticraft Planets (already downloaded)
+Micdoodle Core (already downloaded)
+ExtraPlanets
+Galactic Computers
+Zollern Galaxy
+Space Ambient [Addon for GalactiCraft]
+Galaxy Space [Addon for GalactiCraft]
+
+
+
+
+
+Just Enough Items:
+Block Drops (JEI Addon)
+
+Overloaded:
+Overloaded
+
+Modular Powersuits:
+Modular Powersuits
+
+Roots:
+Roots
+
+
+
+AgriCraft:
+AgriCraft
+AgriComputers
+Blood Agricraft
+
+Actually Additions:
+ActuallyComputers
+Actually Addon
+Actually Additions Fluxified
+Actually Recycling
+AutoAbsorb Blaze for Actually Addition Rings
+
+Draconic Evolution:
+Draconic Additions
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Utilities:
+SimpleHarvest
+Item Collectors
+Uppers
+Translocators 1.8.+
+Wireless Redstone CBE
+Trash Cans
+FindMe
+Disenchanter
+The Beneath
+QuantumStorage
+The Weirding Gadget
+Davincis Vessels
+Morph
+Click Machine
+Barrels, Drums, Storage & More
+Combustive Fishing
+
+
+Cosmetic:
+Pumpkin Spice Latte
+Project Penguin
+Project Potman
+Project Plastic
+Extra Bit Manipulation
+Ceramics
+Engineer's Decor
+ArchitectureCraft - TridentMC Version
+Waddles
+Culinary Construct
+Decocraft
+Paintings ++
+Absent by Design
+Exotic Birds
+Ender Utilities
+XP From Harvest
+Signpost
+
+Tech:
+Industrial Renewal
+Additional Pipes for Buildcraft
+Logistic Pipes
+BuildCraft RF
+Hbm's Nuclear Tech Mod Reloaded
+Extreme Energy
+Simple Storage Network
+Modular Routers
+QuantumFlux
+Simple Generators
+Advanced Generators
+Chargers
+Wireless Charger
+Calculator
+
+Magic:
+Extra Alchemy
+Astral Additions
+Potion Core
+AbyssalCraft
+AbyssalCraft Integration
+BountifulBaubles
+Mahou Tsukai
+The Midnight
+
+Mob Grinding:
+Mob Grinding Utils
+My Little Mob Grinder
+Deep Mob Learning
+Deep Mob Learning - Blood Magic Addon
+Tiny Mob Farm
+
+World Gen:
+Abyssal Depths
+The Abyss: Legacy
+Project: Vibrant Journeys
+Environs++
+Recurrent Complex
+Better Foliage
+Tumbleweed
+NetherEx
+The Lost Cities
+Lost Souls
+BetterNether
+
+
+
+---------------------------------------------------------------------------------------------------------------
