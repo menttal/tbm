@@ -28,4 +28,7 @@ So for now enjoy this project if you want, license is MIT meaning that you can d
 you want i dont care modify it, add it anywhere, use from it, sell it, of course any damage you do or
 any authorities you get in your bussiness is your responsibility im not liable of anything.
 
+Tbm version based on ftb revelations 3.5.0 has been added. It has all main mods and some performance mods
+but sadly i couldnt run it on my laptop to test it. It should be fine with 10 gb of ram. 
+
 I might also make links for the mods we will see.
